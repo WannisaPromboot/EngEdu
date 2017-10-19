@@ -14,6 +14,8 @@ namespace EngEdu
             Console.WriteLine("Year 2560 semester 2, I learnd to program in C shrap.");
             Console.WriteLine("Year 2561 semester 1, I have project project project !!!!!.");
             Console.WriteLine("Year 2561 semester 2, I have project project !!!!!.");
+            Console.WriteLine("Year 2560 semester 2, I learnd to program in C shrap.");
+            Console.WriteLine("Year 2561 semester 1, I have project project project !!!!!.");
 
         }
     }
